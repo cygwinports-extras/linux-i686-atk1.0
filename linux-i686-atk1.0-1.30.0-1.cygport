@@ -1,0 +1,6 @@
+CROSS_HOST="i686-pc-linux-gnu"
+ORIG_PN="atk"
+inherit cross gnome2
+
+DESCRIPTION="GNOME core C function library"
+HOMEPAGE="http://www.gtk.org/"
